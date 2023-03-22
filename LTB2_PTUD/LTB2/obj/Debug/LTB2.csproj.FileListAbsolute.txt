@@ -1,0 +1,16 @@
+F:\LTB2_PTUD\LTB2\bin\Debug\LTB2.exe.config
+F:\LTB2_PTUD\LTB2\bin\Debug\LTB2.exe
+F:\LTB2_PTUD\LTB2\bin\Debug\LTB2.pdb
+F:\LTB2_PTUD\LTB2\obj\Debug\LTB2.csproj.AssemblyReference.cache
+F:\LTB2_PTUD\LTB2\obj\Debug\LTB2.frmChinh.resources
+F:\LTB2_PTUD\LTB2\obj\Debug\LTB2.frmLinklabel.resources
+F:\LTB2_PTUD\LTB2\obj\Debug\LTB2.Properties.Resources.resources
+F:\LTB2_PTUD\LTB2\obj\Debug\LTB2.csproj.GenerateResource.cache
+F:\LTB2_PTUD\LTB2\obj\Debug\LTB2.csproj.CoreCompileInputs.cache
+F:\LTB2_PTUD\LTB2\obj\Debug\LTB2.exe
+F:\LTB2_PTUD\LTB2\obj\Debug\LTB2.pdb
+F:\LTB2_PTUD\LTB2\obj\Debug\LTB2.frmButton.resources
+F:\LTB2_PTUD\LTB2\obj\Debug\LTB2.frmComboBox.resources
+F:\LTB2_PTUD\LTB2\obj\Debug\LTB2.frmListBox.resources
+F:\LTB2_PTUD\LTB2\obj\Debug\LTB2.frmRadioButton.resources
+F:\LTB2_PTUD\LTB2\obj\Debug\LTB2.frmCheckListBox.resources
